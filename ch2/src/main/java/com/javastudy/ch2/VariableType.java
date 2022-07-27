@@ -23,7 +23,6 @@ public class VariableType {
 
         Date today = new Date(); // Date 객체 생성 -> 그 주소를 today에 저장한다.
 
-
 //        논리형 boolean 1 byte  :  True와 false 두가지 타입이므로
 //        문자형 char    2 byte:  자바에서 유니코드 2byte 체계를 사용하므로 2바이트
 //        정수형  byte   1 byte :  크기가 byte라서 byte
