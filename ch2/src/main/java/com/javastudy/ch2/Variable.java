@@ -6,6 +6,8 @@ public class Variable {
 
         System.out.println("Variable Test:::::");
 
+//        변수란 , 단 하나의 값을 저장할 수있는 메모리 공간
+
         int age;
         // initialization
         int age2 = 25;
@@ -16,7 +18,8 @@ public class Variable {
 
         // 초기화란 변수를 사용하기전에 처음으로 값을 저장하는 것
 
-
+        int aa, bb;
+        int xx = 0, yy =0;
 
 
     }
